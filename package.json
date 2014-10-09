@@ -1,0 +1,12 @@
+{
+  "name": "strange-blocks",
+  "version": "0.0.0",
+  "description": "Some front-end blocks",
+  "homepage": "https://github.com/VovanR/strange-blocks",
+  "license": "MIT",
+  "repository": "VovanR/strange-blocks",
+  "author": {
+    "name": "VovanR",
+    "url": "http://vovanr.com/"
+  }
+}
